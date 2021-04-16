@@ -11,3 +11,8 @@ This repository contains a 3D Character Controller created in Unity with the fol
   - WASD to move and Space to jump;
   - E to equip a weapon when NEAR it and Q to drop it.
   - Left Control to attack with a weapon equipped. 
+
+Assets Used:
+- for Character: https://assetstore.unity.com/packages/3d/props/polygon-starter-pack-low-poly-3d-art-by-synty-156819
+- for Weapons: https://assetstore.unity.com/packages/3d/props/weapons/melee-weapons-pack-swords-axes-121237
+- All animations have been exported from: https://www.mixamo.com/
